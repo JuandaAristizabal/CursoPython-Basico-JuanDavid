@@ -1,0 +1,6 @@
+fecha,cliente,producto,cantidad,precio_unitario,total
+2024-01-15,Empresa A,Consultoría,40,150,6000
+2024-01-16,Empresa B,Análisis,20,200,4000
+2024-01-17,Empresa C,Desarrollo,60,180,10800
+2024-01-18,Empresa A,Consultoría,30,150,4500
+2024-01-19,Empresa D,Análisis,25,200,5000
