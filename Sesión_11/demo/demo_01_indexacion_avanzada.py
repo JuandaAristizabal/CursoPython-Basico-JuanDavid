@@ -127,6 +127,7 @@ def main():
     print("📈 Normalización de producción por campo:")
     df_multi['produccion_normalizada'] = df_multi.groupby(level='campo')['produccion_diaria'].transform(
         lambda x: (x - x.mean()) / x.std()
+        #lambda x: (x - x.mean()) 
     )
     
     # Identificar valores atípicos
