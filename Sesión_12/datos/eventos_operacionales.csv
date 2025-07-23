@@ -1,0 +1,65 @@
+fecha_evento,pozo_id,tipo_evento,descripcion,duracion_horas,impacto_produccion,responsable
+2023-01-01 08:00:00,PZ001,Mantenimiento Preventivo,Revisión de válvulas de control,4,0.15,Equipo Técnico A
+2023-01-01 14:00:00,PZ001,Parada Programada,Cambio de filtros de separación,2,0.10,Equipo Técnico B
+2023-01-02 06:00:00,PZ001,Inspección,Verificación de sensores de presión,1,0.05,Equipo Técnico A
+2023-01-03 10:00:00,PZ001,Mantenimiento Correctivo,Reparación de bomba de inyección,6,0.25,Equipo Técnico C
+2023-01-04 16:00:00,PZ001,Parada Programada,Limpieza de tanques de almacenamiento,3,0.12,Equipo Técnico B
+2023-01-05 12:00:00,PZ001,Inspección,Análisis de muestras de producción,2,0.08,Equipo Técnico A
+2023-01-06 08:00:00,PZ001,Mantenimiento Preventivo,Calibración de instrumentos,5,0.18,Equipo Técnico A
+2023-01-07 14:00:00,PZ001,Parada Programada,Revisión de sistema de seguridad,2,0.10,Equipo Técnico B
+2023-01-08 10:00:00,PZ001,Inspección,Verificación de equipos de superficie,1,0.05,Equipo Técnico A
+2023-01-09 16:00:00,PZ001,Mantenimiento Correctivo,Reparación de línea de producción,4,0.20,Equipo Técnico C
+2023-01-10 08:00:00,PZ001,Parada Programada,Cambio de aceite en compresores,3,0.12,Equipo Técnico B
+2023-01-11 12:00:00,PZ001,Inspección,Revisión de válvulas de seguridad,1,0.05,Equipo Técnico A
+2023-01-12 14:00:00,PZ001,Mantenimiento Preventivo,Limpieza de separadores,4,0.15,Equipo Técnico A
+2023-01-13 10:00:00,PZ001,Parada Programada,Calibración de medidores de flujo,2,0.10,Equipo Técnico B
+2023-01-14 16:00:00,PZ001,Inspección,Verificación de sistema de inyección,1,0.05,Equipo Técnico A
+2023-01-15 08:00:00,PZ001,Mantenimiento Correctivo,Reparación de motor eléctrico,5,0.22,Equipo Técnico C
+2023-01-16 12:00:00,PZ001,Parada Programada,Revisión de sistema de control,3,0.12,Equipo Técnico B
+2023-01-17 14:00:00,PZ001,Inspección,Análisis de vibraciones en equipos,2,0.08,Equipo Técnico A
+2023-01-18 10:00:00,PZ001,Mantenimiento Preventivo,Cambio de filtros de aire,4,0.15,Equipo Técnico A
+2023-01-19 16:00:00,PZ001,Parada Programada,Limpieza de intercambiadores,3,0.12,Equipo Técnico B
+2023-01-20 08:00:00,PZ001,Inspección,Verificación de sistema de emergencia,1,0.05,Equipo Técnico A
+2023-01-21 12:00:00,PZ001,Mantenimiento Correctivo,Reparación de válvula de control,4,0.18,Equipo Técnico C
+2023-01-22 14:00:00,PZ001,Parada Programada,Calibración de sensores de temperatura,2,0.10,Equipo Técnico B
+2023-01-23 10:00:00,PZ001,Inspección,Revisión de sistema de ventilación,1,0.05,Equipo Técnico A
+2023-01-24 16:00:00,PZ001,Mantenimiento Preventivo,Limpieza de tanques de proceso,5,0.18,Equipo Técnico A
+2023-01-25 08:00:00,PZ001,Parada Programada,Cambio de aceite en bombas,3,0.12,Equipo Técnico B
+2023-01-26 12:00:00,PZ001,Inspección,Verificación de sistema de drenaje,1,0.05,Equipo Técnico A
+2023-01-27 14:00:00,PZ001,Mantenimiento Correctivo,Reparación de compresor,6,0.25,Equipo Técnico C
+2023-01-28 10:00:00,PZ001,Parada Programada,Revisión de sistema de iluminación,2,0.10,Equipo Técnico B
+2023-01-29 16:00:00,PZ001,Inspección,Análisis de muestras de agua,2,0.08,Equipo Técnico A
+2023-01-30 08:00:00,PZ001,Mantenimiento Preventivo,Calibración de medidores de nivel,4,0.15,Equipo Técnico A
+2023-01-31 12:00:00,PZ001,Parada Programada,Limpieza de filtros de gas,3,0.12,Equipo Técnico B
+2023-01-01 09:00:00,PZ002,Mantenimiento Preventivo,Revisión de válvulas de control,4,0.15,Equipo Técnico A
+2023-01-01 15:00:00,PZ002,Parada Programada,Cambio de filtros de separación,2,0.10,Equipo Técnico B
+2023-01-02 07:00:00,PZ002,Inspección,Verificación de sensores de presión,1,0.05,Equipo Técnico A
+2023-01-03 11:00:00,PZ002,Mantenimiento Correctivo,Reparación de bomba de inyección,6,0.25,Equipo Técnico C
+2023-01-04 17:00:00,PZ002,Parada Programada,Limpieza de tanques de almacenamiento,3,0.12,Equipo Técnico B
+2023-01-05 13:00:00,PZ002,Inspección,Análisis de muestras de producción,2,0.08,Equipo Técnico A
+2023-01-06 09:00:00,PZ002,Mantenimiento Preventivo,Calibración de instrumentos,5,0.18,Equipo Técnico A
+2023-01-07 15:00:00,PZ002,Parada Programada,Revisión de sistema de seguridad,2,0.10,Equipo Técnico B
+2023-01-08 11:00:00,PZ002,Inspección,Verificación de equipos de superficie,1,0.05,Equipo Técnico A
+2023-01-09 17:00:00,PZ002,Mantenimiento Correctivo,Reparación de línea de producción,4,0.20,Equipo Técnico C
+2023-01-10 09:00:00,PZ002,Parada Programada,Cambio de aceite en compresores,3,0.12,Equipo Técnico B
+2023-01-11 13:00:00,PZ002,Inspección,Revisión de válvulas de seguridad,1,0.05,Equipo Técnico A
+2023-01-12 15:00:00,PZ002,Mantenimiento Preventivo,Limpieza de separadores,4,0.15,Equipo Técnico A
+2023-01-13 11:00:00,PZ002,Parada Programada,Calibración de medidores de flujo,2,0.10,Equipo Técnico B
+2023-01-14 17:00:00,PZ002,Inspección,Verificación de sistema de inyección,1,0.05,Equipo Técnico A
+2023-01-15 09:00:00,PZ002,Mantenimiento Correctivo,Reparación de motor eléctrico,5,0.22,Equipo Técnico C
+2023-01-16 13:00:00,PZ002,Parada Programada,Revisión de sistema de control,3,0.12,Equipo Técnico B
+2023-01-17 15:00:00,PZ002,Inspección,Análisis de vibraciones en equipos,2,0.08,Equipo Técnico A
+2023-01-18 11:00:00,PZ002,Mantenimiento Preventivo,Cambio de filtros de aire,4,0.15,Equipo Técnico A
+2023-01-19 17:00:00,PZ002,Parada Programada,Limpieza de intercambiadores,3,0.12,Equipo Técnico B
+2023-01-20 09:00:00,PZ002,Inspección,Verificación de sistema de emergencia,1,0.05,Equipo Técnico A
+2023-01-21 13:00:00,PZ002,Mantenimiento Correctivo,Reparación de válvula de control,4,0.18,Equipo Técnico C
+2023-01-22 15:00:00,PZ002,Parada Programada,Calibración de sensores de temperatura,2,0.10,Equipo Técnico B
+2023-01-23 11:00:00,PZ002,Inspección,Revisión de sistema de ventilación,1,0.05,Equipo Técnico A
+2023-01-24 17:00:00,PZ002,Mantenimiento Preventivo,Limpieza de tanques de proceso,5,0.18,Equipo Técnico A
+2023-01-25 09:00:00,PZ002,Parada Programada,Cambio de aceite en bombas,3,0.12,Equipo Técnico B
+2023-01-26 13:00:00,PZ002,Inspección,Verificación de sistema de drenaje,1,0.05,Equipo Técnico A
+2023-01-27 15:00:00,PZ002,Mantenimiento Correctivo,Reparación de compresor,6,0.25,Equipo Técnico C
+2023-01-28 11:00:00,PZ002,Parada Programada,Revisión de sistema de iluminación,2,0.10,Equipo Técnico B
+2023-01-29 17:00:00,PZ002,Inspección,Análisis de muestras de agua,2,0.08,Equipo Técnico A
+2023-01-30 09:00:00,PZ002,Mantenimiento Preventivo,Calibración de medidores de nivel,4,0.15,Equipo Técnico A
+2023-01-31 13:00:00,PZ002,Parada Programada,Limpieza de filtros de gas,3,0.12,Equipo Técnico B 
