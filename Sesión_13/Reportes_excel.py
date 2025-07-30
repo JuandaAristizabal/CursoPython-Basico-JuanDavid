@@ -12,7 +12,7 @@ resumen = {
 df_resumen = pd.DataFrame(resumen)
 
 # Escribir a Excel con varias hojas
-with pd.ExcelWriter('/workspaces/CursoPython-Basico-JuanDavid/Sesión_13/datos/reporte_produccion.xlsx', engine='openpyxl') as writer:
+with pd.ExcelWriter('Sesión_13/reporte_produccion.xlsx', engine='openpyxl') as writer:
     df_resumen.to_excel(writer, sheet_name='Resumen', index=False)
     df.to_excel(writer, sheet_name='Datos', index=False)
 print('Reporte Excel generado.') 

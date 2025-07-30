@@ -18,7 +18,7 @@ plt.savefig(grafico_path)
 plt.close()
 
 # Crear PDF e insertar gráfico
-pdf_path = '/workspaces/CursoPython-Basico-JuanDavid/Sesión_13/datos/reporte_produccion.pdf'
+pdf_path = 'Sesión_13/reporte_produccion.pdf'
 c = canvas.Canvas(pdf_path, pagesize=letter)
 c.drawString(100, 750, 'Reporte de Producción')
 c.drawImage(grafico_path, 100, 500, width=400, height=200)

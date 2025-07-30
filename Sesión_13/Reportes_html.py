@@ -11,7 +11,7 @@ plt.title('Producción diaria')
 plt.xlabel('Fecha')
 plt.ylabel('BPD')
 plt.tight_layout()
-grafico_path = '/workspaces/CursoPython-Basico-JuanDavid/Sesión_13/datos/grafico_produccion_html.png'
+grafico_path = '/workspaces/CursoPython-Basico-JuanDavid/Sesión_13/grafico_produccion_html.png'
 nombre_grafico = 'grafico_produccion_html.png'
 plt.savefig(grafico_path)
 plt.close()
@@ -26,10 +26,10 @@ html = f"""
 <h2>Resumen estadístico</h2>
 {resumen}
 <h2>Gráfico de producción</h2>
-<img src='{nombre_grafico}' width='600'>
+<img src='{grafico_path}' width='600'>
 </body>
 </html>
 """
-with open('/workspaces/CursoPython-Basico-JuanDavid/Sesión_13/datos/reporte_produccion.html', 'w') as f:
+with open('Sesión_13/reporte_produccion.html', 'w') as f:
     f.write(html)
 print('Reporte HTML generado.') 
