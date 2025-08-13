@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-08-13 21:35:47",
+  "dataset": "mantenimiento.csv",
+  "metricas_originales": {
+    "registros": 205,
+    "columnas": 9,
+    "completitud": 99.1869918699187,
+    "duplicados": "5"
+  },
+  "metricas_limpias": {
+    "registros": 200,
+    "columnas": 9,
+    "completitud": 100.0,
+    "duplicados": "0"
+  },
+  "mejoras": {
+    "registros_eliminados": 5,
+    "mejora_completitud": 0.8130081300813004
+  }
+}
