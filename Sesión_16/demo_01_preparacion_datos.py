@@ -26,7 +26,7 @@ print("\n🔍 PASO 1: EXPLORACIÓN INICIAL")
 print("-" * 30)
 
 # Cargar dataset de producción
-df = pd.read_csv('../datos/produccion_historica.csv')
+df = pd.read_csv('/workspaces/CursoPython-Basico-JuanDavid/Sesión_16/datos/produccion_historica.csv')
 
 print(f"📊 Dataset cargado: {df.shape[0]} filas × {df.shape[1]} columnas")
 print("\n📋 Primeras 5 filas:")
