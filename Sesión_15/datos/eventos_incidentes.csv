@@ -1,0 +1,21 @@
+fecha_evento,hora_evento,pozo_id,tipo_evento,severidad,descripcion,resuelto,tiempo_resolucion_min,operador_turno
+2024-01-01,08:15,PZ003,Alarma_Presion,Media,Presión de cabeza excede límite superior,True,45,Turno_A
+2024-01-01,14:30,PZ002,Falla_Comunicacion,Baja,Pérdida temporal de comunicación SCADA,True,15,Turno_B
+2024-01-01,20:45,PZ005,Parada_Emergencia,Alta,Parada automática por alta vibración,False,0,Turno_C
+2024-01-02,06:20,PZ005,Inicio_Mantenimiento,Media,Inicio de trabajos programados,True,480,Turno_A
+2024-01-02,09:10,PZ001,Alarma_Temperatura,Baja,Temperatura motor ligeramente elevada,True,25,Turno_A
+2024-01-02,16:25,PZ004,Ajuste_Operativo,Baja,Ajuste de frecuencia VFD,True,10,Turno_B
+2024-01-02,22:30,PZ003,Alarma_Vibration,Media,Vibración excede umbral de advertencia,True,60,Turno_C
+2024-01-03,05:45,PZ002,Mantenimiento_Preventivo,Media,Inicio de mantenimiento de válvula,True,120,Turno_A
+2024-01-03,11:20,PZ005,Fin_Mantenimiento,Media,Finalización de trabajos y puesta en marcha,True,30,Turno_B
+2024-01-03,17:15,PZ001,Alarma_Corriente,Baja,Corriente motor fuera de rango normal,True,20,Turno_B
+2024-01-04,07:30,PZ001,Mantenimiento_Correctivo,Media,Calibración sistema de medición,True,240,Turno_A
+2024-01-04,13:45,PZ004,Optimizacion,Baja,Ajuste de parámetros operativos,True,35,Turno_B
+2024-01-04,19:20,PZ002,Falla_Sensor,Media,Sensor de presión enviando lecturas erráticas,False,0,Turno_C
+2024-01-05,08:00,PZ003,Mantenimiento_Preventivo,Media,Limpieza de separador trifásico,True,360,Turno_A
+2024-01-05,15:30,PZ005,Alarma_Sistema,Baja,Alarma menor en sistema de control,True,15,Turno_B
+2024-01-06,06:15,PZ004,Mantenimiento_Preventivo,Baja,Cambio rutinario de filtros,True,60,Turno_A
+2024-01-06,12:40,PZ001,Alarma_Presion,Media,Fluctuación anormal de presión,True,50,Turno_B
+2024-01-06,21:10,PZ002,Falla_Equipo,Media,Problema en línea de producción,True,180,Turno_C
+2024-01-07,04:25,PZ005,Optimizacion,Baja,Ajuste fino de parámetros PLC,True,90,Turno_A
+2024-01-07,10:50,PZ003,Alarma_Vibration,Alta,Vibración crítica detectada,True,120,Turno_B

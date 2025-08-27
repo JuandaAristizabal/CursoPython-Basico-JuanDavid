@@ -1,0 +1,15 @@
+fecha_inicio,fecha_fin,pozo_id,equipo_tipo,descripcion_trabajo,costo_usd,duracion_horas,criticidad,responsable
+2024-01-02,2024-01-02,PZ005,Bomba_ESP,Reemplazo de bomba sumergible por falla,15500,8,Alta,Juan Perez
+2024-01-03,2024-01-03,PZ002,Valvula_Choke,Ajuste de válvula reguladora,850,2,Baja,Maria Rodriguez
+2024-01-04,2024-01-04,PZ001,Sistema_Medicion,Calibración de medidores de flujo,1200,4,Media,Carlos Silva
+2024-01-05,2024-01-05,PZ003,Separador,Limpieza de separador trifásico,2800,6,Media,Ana Torres
+2024-01-06,2024-01-06,PZ004,Compresor,Cambio de filtros de aire,450,1,Baja,Luis Garcia
+2024-01-07,2024-01-07,PZ002,Tuberia,Reparación de fuga menor,950,3,Media,Pedro Martinez
+2024-01-08,2024-01-08,PZ001,Bomba_ESP,Inspección rutinaria de bomba,650,2,Baja,Juan Perez
+2024-01-09,2024-01-09,PZ005,Sistema_Control,Actualización de software PLC,1800,5,Alta,Sofia Ramirez
+2024-01-10,2024-01-10,PZ003,Valvula_Choke,Reemplazo de actuador,3200,4,Media,Maria Rodriguez
+2024-01-11,2024-01-11,PZ004,Separador,Inspección de internos,1100,3,Baja,Carlos Silva
+2024-01-12,2024-01-12,PZ002,Sistema_Medicion,Reemplazo de transmisor de presión,2400,3,Media,Ana Torres
+2024-01-13,2024-01-13,PZ001,Tuberia,Inspección con ultrasonido,850,4,Baja,Luis Garcia
+2024-01-14,2024-01-14,PZ005,Compresor,Overhaul menor de compresor,8900,12,Alta,Pedro Martinez
+2024-01-15,2024-01-15,PZ003,Sistema_Control,Calibración de sensores,750,2,Baja,Sofia Ramirez
